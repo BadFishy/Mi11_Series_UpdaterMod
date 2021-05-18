@@ -13,12 +13,12 @@ apk修改：kevmck （酷安）
 
 [酷安原贴](https://www.coolapk.com/feed/26519433?shareKey=MTgyM2ZmMTQ2YjYwNjA4NTNhMDI~&shareUid=1969456&shareFrom=com.coolapk.market_11.1.2)
 
-v1.1 蓝奏云下载地址：[密码:1234](https://coolcake.lanzous.com/b064yynjg)
+v1.1 蓝奏云下载地址：[密码:1234](https://coolcake.lanzoux.com/b064yynjg)
 
 
 温馨提示：
 
-目前仅在 小米11/小米11 Pro/小米11 Ultra ， MIUI 12.5 21.4.21 前测试成功过。
+目前仅在 小米11/小米11 Pro/小米11 Ultra ， MIUI 12.5 21.5.14 前测试成功过。
 
 同时，在12.5的开发版升级到新的12.5开发版时不会清理数据。
 
